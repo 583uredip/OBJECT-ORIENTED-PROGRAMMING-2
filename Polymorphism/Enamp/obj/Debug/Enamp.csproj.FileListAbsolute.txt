@@ -1,0 +1,7 @@
+E:\c#code\Polymorphism\Enamp\bin\Debug\Enamp.exe.config
+E:\c#code\Polymorphism\Enamp\bin\Debug\Enamp.exe
+E:\c#code\Polymorphism\Enamp\bin\Debug\Enamp.pdb
+E:\c#code\Polymorphism\Enamp\obj\Debug\Enamp.csproj.AssemblyReference.cache
+E:\c#code\Polymorphism\Enamp\obj\Debug\Enamp.csproj.CoreCompileInputs.cache
+E:\c#code\Polymorphism\Enamp\obj\Debug\Enamp.exe
+E:\c#code\Polymorphism\Enamp\obj\Debug\Enamp.pdb

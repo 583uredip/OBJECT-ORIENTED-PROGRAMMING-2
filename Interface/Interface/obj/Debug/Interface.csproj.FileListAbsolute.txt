@@ -1,0 +1,7 @@
+E:\c#code\Interface\Interface\bin\Debug\Interface.exe.config
+E:\c#code\Interface\Interface\bin\Debug\Interface.exe
+E:\c#code\Interface\Interface\bin\Debug\Interface.pdb
+E:\c#code\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+E:\c#code\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+E:\c#code\Interface\Interface\obj\Debug\Interface.exe
+E:\c#code\Interface\Interface\obj\Debug\Interface.pdb

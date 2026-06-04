@@ -1,0 +1,7 @@
+E:\c#code\CSharp_crashcourse\bin\Debug\CSharp_crashcourse.exe.config
+E:\c#code\CSharp_crashcourse\bin\Debug\CSharp_crashcourse.exe
+E:\c#code\CSharp_crashcourse\bin\Debug\CSharp_crashcourse.pdb
+E:\c#code\CSharp_crashcourse\obj\Debug\CSharp_crashcourse.csproj.AssemblyReference.cache
+E:\c#code\CSharp_crashcourse\obj\Debug\CSharp_crashcourse.csproj.CoreCompileInputs.cache
+E:\c#code\CSharp_crashcourse\obj\Debug\CSharp_crashcourse.exe
+E:\c#code\CSharp_crashcourse\obj\Debug\CSharp_crashcourse.pdb

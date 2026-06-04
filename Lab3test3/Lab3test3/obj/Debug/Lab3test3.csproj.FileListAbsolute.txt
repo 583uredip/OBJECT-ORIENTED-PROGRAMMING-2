@@ -1,0 +1,7 @@
+E:\c#code\Lab3test3\Lab3test3\bin\Debug\Lab3test3.exe.config
+E:\c#code\Lab3test3\Lab3test3\bin\Debug\Lab3test3.exe
+E:\c#code\Lab3test3\Lab3test3\bin\Debug\Lab3test3.pdb
+E:\c#code\Lab3test3\Lab3test3\obj\Debug\Lab3test3.csproj.AssemblyReference.cache
+E:\c#code\Lab3test3\Lab3test3\obj\Debug\Lab3test3.csproj.CoreCompileInputs.cache
+E:\c#code\Lab3test3\Lab3test3\obj\Debug\Lab3test3.exe
+E:\c#code\Lab3test3\Lab3test3\obj\Debug\Lab3test3.pdb

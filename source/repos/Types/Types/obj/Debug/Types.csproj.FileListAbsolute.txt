@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Types\Types\bin\Debug\Types.exe.config
+C:\Users\USER\source\repos\Types\Types\bin\Debug\Types.exe
+C:\Users\USER\source\repos\Types\Types\bin\Debug\Types.pdb
+C:\Users\USER\source\repos\Types\Types\obj\Debug\Types.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Types\Types\obj\Debug\Types.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Types\Types\obj\Debug\Types.exe
+C:\Users\USER\source\repos\Types\Types\obj\Debug\Types.pdb

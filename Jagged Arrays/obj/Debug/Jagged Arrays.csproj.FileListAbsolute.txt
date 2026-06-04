@@ -1,0 +1,7 @@
+E:\c#code\Jagged Arrays\bin\Debug\Jagged Arrays.exe.config
+E:\c#code\Jagged Arrays\bin\Debug\Jagged Arrays.exe
+E:\c#code\Jagged Arrays\bin\Debug\Jagged Arrays.pdb
+E:\c#code\Jagged Arrays\obj\Debug\Jagged Arrays.csproj.AssemblyReference.cache
+E:\c#code\Jagged Arrays\obj\Debug\Jagged Arrays.csproj.CoreCompileInputs.cache
+E:\c#code\Jagged Arrays\obj\Debug\Jagged Arrays.exe
+E:\c#code\Jagged Arrays\obj\Debug\Jagged Arrays.pdb

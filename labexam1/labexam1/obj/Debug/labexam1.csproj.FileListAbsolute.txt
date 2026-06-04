@@ -1,0 +1,7 @@
+E:\c#code\labexam1\labexam1\bin\Debug\labexam1.exe.config
+E:\c#code\labexam1\labexam1\bin\Debug\labexam1.exe
+E:\c#code\labexam1\labexam1\bin\Debug\labexam1.pdb
+E:\c#code\labexam1\labexam1\obj\Debug\labexam1.csproj.AssemblyReference.cache
+E:\c#code\labexam1\labexam1\obj\Debug\labexam1.csproj.CoreCompileInputs.cache
+E:\c#code\labexam1\labexam1\obj\Debug\labexam1.exe
+E:\c#code\labexam1\labexam1\obj\Debug\labexam1.pdb

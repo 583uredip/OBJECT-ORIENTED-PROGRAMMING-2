@@ -1,0 +1,7 @@
+E:\c#code\WeatherSimulator\bin\Debug\WeatherSimulator.exe.config
+E:\c#code\WeatherSimulator\bin\Debug\WeatherSimulator.exe
+E:\c#code\WeatherSimulator\bin\Debug\WeatherSimulator.pdb
+E:\c#code\WeatherSimulator\obj\Debug\WeatherSimulator.csproj.AssemblyReference.cache
+E:\c#code\WeatherSimulator\obj\Debug\WeatherSimulator.csproj.CoreCompileInputs.cache
+E:\c#code\WeatherSimulator\obj\Debug\WeatherSimulator.exe
+E:\c#code\WeatherSimulator\obj\Debug\WeatherSimulator.pdb

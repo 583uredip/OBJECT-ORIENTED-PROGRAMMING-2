@@ -1,0 +1,7 @@
+E:\c#code\MidQuestionAnswerpart(2)\MidQuestionAnswerpart(2)\bin\Debug\MidQuestionAnswerpart(2).exe.config
+E:\c#code\MidQuestionAnswerpart(2)\MidQuestionAnswerpart(2)\bin\Debug\MidQuestionAnswerpart(2).exe
+E:\c#code\MidQuestionAnswerpart(2)\MidQuestionAnswerpart(2)\bin\Debug\MidQuestionAnswerpart(2).pdb
+E:\c#code\MidQuestionAnswerpart(2)\MidQuestionAnswerpart(2)\obj\Debug\MidQuestionAnswerpart(2).csproj.AssemblyReference.cache
+E:\c#code\MidQuestionAnswerpart(2)\MidQuestionAnswerpart(2)\obj\Debug\MidQuestionAnswerpart(2).csproj.CoreCompileInputs.cache
+E:\c#code\MidQuestionAnswerpart(2)\MidQuestionAnswerpart(2)\obj\Debug\MidQuestionAnswerpart(2).exe
+E:\c#code\MidQuestionAnswerpart(2)\MidQuestionAnswerpart(2)\obj\Debug\MidQuestionAnswerpart(2).pdb

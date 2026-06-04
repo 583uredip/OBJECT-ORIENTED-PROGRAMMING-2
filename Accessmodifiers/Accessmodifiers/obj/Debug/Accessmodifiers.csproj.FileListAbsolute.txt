@@ -1,0 +1,7 @@
+E:\c#code\Accessmodifiers\Accessmodifiers\bin\Debug\Accessmodifiers.exe.config
+E:\c#code\Accessmodifiers\Accessmodifiers\bin\Debug\Accessmodifiers.exe
+E:\c#code\Accessmodifiers\Accessmodifiers\bin\Debug\Accessmodifiers.pdb
+E:\c#code\Accessmodifiers\Accessmodifiers\obj\Debug\Accessmodifiers.csproj.AssemblyReference.cache
+E:\c#code\Accessmodifiers\Accessmodifiers\obj\Debug\Accessmodifiers.csproj.CoreCompileInputs.cache
+E:\c#code\Accessmodifiers\Accessmodifiers\obj\Debug\Accessmodifiers.exe
+E:\c#code\Accessmodifiers\Accessmodifiers\obj\Debug\Accessmodifiers.pdb

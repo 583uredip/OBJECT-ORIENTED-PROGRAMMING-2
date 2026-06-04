@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Types\Cost Type and readonly\bin\Debug\Cost Type and readonly.exe.config
+C:\Users\USER\source\repos\Types\Cost Type and readonly\bin\Debug\Cost Type and readonly.exe
+C:\Users\USER\source\repos\Types\Cost Type and readonly\bin\Debug\Cost Type and readonly.pdb
+C:\Users\USER\source\repos\Types\Cost Type and readonly\obj\Debug\Cost Type and readonly.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Types\Cost Type and readonly\obj\Debug\Cost Type and readonly.exe
+C:\Users\USER\source\repos\Types\Cost Type and readonly\obj\Debug\Cost Type and readonly.pdb
+C:\Users\USER\source\repos\Types\Cost Type and readonly\obj\Debug\Cost Type and readonly.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+E:\c#code\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\c#code\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\c#code\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\c#code\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+E:\c#code\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\c#code\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\c#code\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

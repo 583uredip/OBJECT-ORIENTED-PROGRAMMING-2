@@ -1,0 +1,7 @@
+E:\c#code\A Home Movie Service\A Home Movie Service\bin\Debug\A Home Movie Service.exe.config
+E:\c#code\A Home Movie Service\A Home Movie Service\bin\Debug\A Home Movie Service.exe
+E:\c#code\A Home Movie Service\A Home Movie Service\bin\Debug\A Home Movie Service.pdb
+E:\c#code\A Home Movie Service\A Home Movie Service\obj\Debug\A Home Movie Service.csproj.AssemblyReference.cache
+E:\c#code\A Home Movie Service\A Home Movie Service\obj\Debug\A Home Movie Service.csproj.CoreCompileInputs.cache
+E:\c#code\A Home Movie Service\A Home Movie Service\obj\Debug\A Home Movie Service.exe
+E:\c#code\A Home Movie Service\A Home Movie Service\obj\Debug\A Home Movie Service.pdb

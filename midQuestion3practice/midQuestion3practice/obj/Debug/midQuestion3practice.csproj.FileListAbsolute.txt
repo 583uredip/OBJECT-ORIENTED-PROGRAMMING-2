@@ -1,0 +1,7 @@
+E:\c#code\midQuestion3practice\midQuestion3practice\bin\Debug\midQuestion3practice.exe.config
+E:\c#code\midQuestion3practice\midQuestion3practice\bin\Debug\midQuestion3practice.exe
+E:\c#code\midQuestion3practice\midQuestion3practice\bin\Debug\midQuestion3practice.pdb
+E:\c#code\midQuestion3practice\midQuestion3practice\obj\Debug\midQuestion3practice.csproj.AssemblyReference.cache
+E:\c#code\midQuestion3practice\midQuestion3practice\obj\Debug\midQuestion3practice.csproj.CoreCompileInputs.cache
+E:\c#code\midQuestion3practice\midQuestion3practice\obj\Debug\midQuestion3practice.exe
+E:\c#code\midQuestion3practice\midQuestion3practice\obj\Debug\midQuestion3practice.pdb

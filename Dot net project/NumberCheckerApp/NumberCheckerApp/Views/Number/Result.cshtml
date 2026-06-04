@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Result";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+
+            <div class="card shadow-lg">
+
+                <div class="card-header bg-success text-white text-center">
+                    <h3>Result: Even or Odd</h3>
+                </div>
+
+                <div class="card-body text-center p-5">
+
+                    <!-- Display the number -->
+                    <h1 class="display-1 text-primary mb-4">
+                        @ViewBag.Number
+                    </h1>
+
+                    <hr />
+
+                    <!-- Result -->
+                    <div class="alert alert-success" role="alert">
+                        <h4 class="alert-heading">@ViewBag.Result</h4>
+                    </div>
+
+                    <!-- Explanation -->
+                    @if (ViewBag.Number % 2 == 0)
+                    {
+                        <p class="lead">
+                            This number is divisible by 2 with no remainder.
+                        </p>
+                    }
+                    else
+                    {
+                        <p class="lead">
+                            This number has a remainder of 1 when divided by 2.
+                        </p>
+                    }
+
+                    <!-- Back Button -->
+                    <div class="mt-4">
+                        <a href="/Number/Index" class="btn btn-primary btn-lg">
+                            Check Another Number
+                        </a>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+</div>

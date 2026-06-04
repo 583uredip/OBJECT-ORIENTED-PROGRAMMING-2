@@ -1,0 +1,7 @@
+E:\c#code\ConsoleApp1\matrixoparetion\bin\Debug\matrixoparetion.exe.config
+E:\c#code\ConsoleApp1\matrixoparetion\bin\Debug\matrixoparetion.exe
+E:\c#code\ConsoleApp1\matrixoparetion\bin\Debug\matrixoparetion.pdb
+E:\c#code\ConsoleApp1\matrixoparetion\obj\Debug\matrixoparetion.csproj.AssemblyReference.cache
+E:\c#code\ConsoleApp1\matrixoparetion\obj\Debug\matrixoparetion.csproj.CoreCompileInputs.cache
+E:\c#code\ConsoleApp1\matrixoparetion\obj\Debug\matrixoparetion.exe
+E:\c#code\ConsoleApp1\matrixoparetion\obj\Debug\matrixoparetion.pdb

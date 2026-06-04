@@ -1,0 +1,26 @@
+E:\c#code\1 st gui class\1 st gui class\bin\Debug\1 st gui class.exe.config
+E:\c#code\1 st gui class\1 st gui class\bin\Debug\1 st gui class.exe
+E:\c#code\1 st gui class\1 st gui class\bin\Debug\1 st gui class.pdb
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\1 st gui class.csproj.AssemblyReference.cache
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\_1_st_gui_class.Properties.Resources.resources
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\1 st gui class.csproj.GenerateResource.cache
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\1 st gui class.csproj.CoreCompileInputs.cache
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\1 st gui class.exe
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\1 st gui class.pdb
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\_1_st_gui_class.Form1.resources
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\_1_st_gui_class.MainWindow.resources
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\_1_st_gui_class.Form2.resources
+E:\c#code\1 st gui class\1 st gui class\bin\Debug\Guna.UI2.dll
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\1 st gui class.csproj.CopyComplete
+E:\c#code\1 st gui class\1 st gui class\bin\Debug\Bunifu.Licensing.dll
+E:\c#code\1 st gui class\1 st gui class\bin\Debug\Bunifu.UI.WinForms.dll
+E:\c#code\1 st gui class\1 st gui class\bin\Debug\Newtonsoft.Json.dll
+E:\c#code\1 st gui class\1 st gui class\bin\Debug\System.CodeDom.dll
+E:\c#code\1 st gui class\1 st gui class\bin\Debug\Bunifu.UI.WinForms.xml
+E:\c#code\1 st gui class\1 st gui class\bin\Debug\Newtonsoft.Json.xml
+E:\c#code\1 st gui class\1 st gui class\bin\Debug\System.CodeDom.xml
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\_1_st_gui_class.Form3.resources
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\_1_st_gui_class.Form4.resources
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\_1_st_gui_class.AdminForm.resources
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\_1_st_gui_class.CostomerForm.resources
+E:\c#code\1 st gui class\1 st gui class\obj\Debug\_1_st_gui_class.UserForm.resources

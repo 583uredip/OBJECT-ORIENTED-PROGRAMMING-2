@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#code\\Dot net project\\NumberCheckerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|e:\\c#code\\dot net project\\numbercheckerapp\\numbercheckerapp\\views\\number\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|solutionrelative:numbercheckerapp\\views\\number\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|e:\\c#code\\dot net project\\numbercheckerapp\\numbercheckerapp\\views\\number\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|solutionrelative:numbercheckerapp\\views\\number\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|e:\\c#code\\dot net project\\numbercheckerapp\\numbercheckerapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|solutionrelative:numbercheckerapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|e:\\c#code\\dot net project\\numbercheckerapp\\numbercheckerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|solutionrelative:numbercheckerapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|e:\\c#code\\dot net project\\numbercheckerapp\\numbercheckerapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|solutionrelative:numbercheckerapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|e:\\c#code\\dot net project\\numbercheckerapp\\numbercheckerapp\\controllers\\numbercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|solutionrelative:numbercheckerapp\\controllers\\numbercontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|e:\\c#code\\dot net project\\numbercheckerapp\\numbercheckerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|solutionrelative:numbercheckerapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|e:\\c#code\\dot net project\\numbercheckerapp\\numbercheckerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|solutionrelative:numbercheckerapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|e:\\c#code\\dot net project\\numbercheckerapp\\numbercheckerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|solutionrelative:numbercheckerapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|e:\\c#code\\dot net project\\numbercheckerapp\\numbercheckerapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|solutionrelative:numbercheckerapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|e:\\c#code\\dot net project\\numbercheckerapp\\numbercheckerapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|solutionrelative:numbercheckerapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|e:\\c#code\\dot net project\\numbercheckerapp\\numbercheckerapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|solutionrelative:numbercheckerapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|e:\\c#code\\dot net project\\numbercheckerapp\\numbercheckerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|solutionrelative:numbercheckerapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|e:\\c#code\\dot net project\\numbercheckerapp\\numbercheckerapp\\numbercheckerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{01EEE53B-E7CB-6112-364C-88CB5EE7A500}|NumberCheckerApp\\NumberCheckerApp.csproj|solutionrelative:numbercheckerapp\\numbercheckerapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NumberCheckerApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NumberCheckerApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:22:31.469Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NumberCheckerApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NumberCheckerApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T19:14:43.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "NumberCheckerApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "NumberCheckerApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T18:03:48.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\Number\\Index.cshtml",
+              "RelativeDocumentMoniker": "NumberCheckerApp\\Views\\Number\\Index.cshtml",
+              "ToolTip": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\Number\\Index.cshtml*",
+              "RelativeToolTip": "NumberCheckerApp\\Views\\Number\\Index.cshtml*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAsAAADNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T17:34:15.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "NumberCheckerApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "NumberCheckerApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:33:18.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\Number\\Result.cshtml",
+              "RelativeDocumentMoniker": "NumberCheckerApp\\Views\\Number\\Result.cshtml",
+              "ToolTip": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\Number\\Result.cshtml",
+              "RelativeToolTip": "NumberCheckerApp\\Views\\Number\\Result.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T17:59:51.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NumberController1.cs",
+              "DocumentMoniker": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Controllers\\NumberController1.cs",
+              "RelativeDocumentMoniker": "NumberCheckerApp\\Controllers\\NumberController1.cs",
+              "ToolTip": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Controllers\\NumberController1.cs",
+              "RelativeToolTip": "NumberCheckerApp\\Controllers\\NumberController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:31:30.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Program.cs",
+              "RelativeDocumentMoniker": "NumberCheckerApp\\Program.cs",
+              "ToolTip": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Program.cs",
+              "RelativeToolTip": "NumberCheckerApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:13:59.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\appsettings.json",
+              "RelativeDocumentMoniker": "NumberCheckerApp\\appsettings.json",
+              "ToolTip": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\appsettings.json",
+              "RelativeToolTip": "NumberCheckerApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T19:14:14.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NumberCheckerApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NumberCheckerApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:33:22.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "NumberCheckerApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "NumberCheckerApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:33:16.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NumberCheckerApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NumberCheckerApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T18:29:13.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NumberCheckerApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NumberCheckerApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T18:29:16.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NumberCheckerApp.csproj",
+              "DocumentMoniker": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\NumberCheckerApp.csproj",
+              "RelativeDocumentMoniker": "NumberCheckerApp\\NumberCheckerApp.csproj",
+              "ToolTip": "E:\\c#code\\Dot net project\\NumberCheckerApp\\NumberCheckerApp\\NumberCheckerApp.csproj",
+              "RelativeToolTip": "NumberCheckerApp\\NumberCheckerApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T19:21:36.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

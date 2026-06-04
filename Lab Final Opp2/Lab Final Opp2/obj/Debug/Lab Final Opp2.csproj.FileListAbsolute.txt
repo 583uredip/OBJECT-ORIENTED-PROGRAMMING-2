@@ -1,0 +1,10 @@
+E:\c#code\Lab Final Opp2\Lab Final Opp2\bin\Debug\Lab Final Opp2.exe.config
+E:\c#code\Lab Final Opp2\Lab Final Opp2\bin\Debug\Lab Final Opp2.exe
+E:\c#code\Lab Final Opp2\Lab Final Opp2\bin\Debug\Lab Final Opp2.pdb
+E:\c#code\Lab Final Opp2\Lab Final Opp2\obj\Debug\Lab Final Opp2.csproj.AssemblyReference.cache
+E:\c#code\Lab Final Opp2\Lab Final Opp2\obj\Debug\Lab_Final_Opp2.Form1.resources
+E:\c#code\Lab Final Opp2\Lab Final Opp2\obj\Debug\Lab_Final_Opp2.Properties.Resources.resources
+E:\c#code\Lab Final Opp2\Lab Final Opp2\obj\Debug\Lab Final Opp2.csproj.GenerateResource.cache
+E:\c#code\Lab Final Opp2\Lab Final Opp2\obj\Debug\Lab Final Opp2.csproj.CoreCompileInputs.cache
+E:\c#code\Lab Final Opp2\Lab Final Opp2\obj\Debug\Lab Final Opp2.exe
+E:\c#code\Lab Final Opp2\Lab Final Opp2\obj\Debug\Lab Final Opp2.pdb

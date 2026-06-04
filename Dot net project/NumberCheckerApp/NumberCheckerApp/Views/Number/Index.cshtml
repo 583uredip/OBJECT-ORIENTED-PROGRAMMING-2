@@ -1,0 +1,74 @@
+﻿@{
+    ViewData["Title"] = "Number Checker";
+}
+
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg">
+
+                <div class="card-header bg-primary text-white text-center">
+                    <h2>Number Checker Application</h2>
+                    <a href="e:\c#code\dot net project\numbercheckerapp\numbercheckerapp\views\number\index.cshtml">e:\c#code\dot net project\numbercheckerapp\numbercheckerapp\views\number\index.cshtml</a>
+                </div>
+
+                <div class="card-body p-4">
+
+                    <h4 class="mb-3">Check if a number is Even or Odd</h4>
+
+                    <!-- Form: Check Even/Odd -->
+                    <form method="post" asp-action="CheckEvenOdd" class="mb-5">
+
+                        <div class="mb-3">
+                            <label for="evenOddInput" class="form-label">
+                                Enter a number:
+                            </label>
+
+                            <input type="number"
+                                   id="evenOddInput"
+                                   name="number"
+                                   class="form-control form-control-lg"
+                                   placeholder="e.g., 15"
+                                   required />
+
+                            <div class="form-text">
+                                We'll tell you if it's even or odd
+                            </div>
+                        </div>
+
+                        <button type="submit" class="btn btn-success btn-lg w-100">
+                            Check Even / Odd
+                        </button>
+
+                    </form>
+                    <hr class="my-4" />
+                    <h4 class="mb-3">Check if a number is Prime</h4>
+                  <!----Check Prime----->
+                  <!------------    <form method="post" asp-action="CheckPrime">
+                        <div class="md-3">
+                            <label for="primeInput" class="form-label">
+                                Enter a number:
+                            </label>
+                            <input type="number"
+                                id="primeInput"
+                                name="number"
+                                class="form-control form-control-lg"
+                                placeholder="e.g., 7"
+                                required/>
+                                <div class="form-text">
+                                    We'll check if it's a prime number
+                                </div>
+                        </div>
+                        <button type="submit" class="btn btn-info btn-lg w-100">
+                            Check Prime Number
+                        </button>
+
+                    </form>
+                </div>
+                <div class="card-footer text-center text-muted">
+                    <small>Built With ASP>Net Core MVC</small>
+                </div>
+            </div>
+        </div>------>
+    </div>
+</div>

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#code\\Casting\u0026Type\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10A75EBA-CEF9-4328-A93A-1E0723C026C0}|Casting\u0026Type\\Casting\u0026Type.csproj|e:\\c#code\\casting\u0026type\\casting\u0026type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10A75EBA-CEF9-4328-A93A-1E0723C026C0}|Casting\u0026Type\\Casting\u0026Type.csproj|solutionrelative:casting\u0026type\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#code\\Casting\u0026Type\\Casting\u0026Type\\Program.cs",
+              "RelativeDocumentMoniker": "Casting\u0026Type\\Program.cs",
+              "ToolTip": "E:\\c#code\\Casting\u0026Type\\Casting\u0026Type\\Program.cs",
+              "RelativeToolTip": "Casting\u0026Type\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T13:55:53.889Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

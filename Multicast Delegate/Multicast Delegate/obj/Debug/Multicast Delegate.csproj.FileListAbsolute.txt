@@ -1,0 +1,7 @@
+E:\c#code\Multicast Delegate\Multicast Delegate\obj\Debug\Multicast Delegate.csproj.AssemblyReference.cache
+E:\c#code\Multicast Delegate\Multicast Delegate\obj\Debug\Multicast Delegate.csproj.CoreCompileInputs.cache
+E:\c#code\Multicast Delegate\Multicast Delegate\bin\Debug\Multicast Delegate.exe.config
+E:\c#code\Multicast Delegate\Multicast Delegate\bin\Debug\Multicast Delegate.exe
+E:\c#code\Multicast Delegate\Multicast Delegate\bin\Debug\Multicast Delegate.pdb
+E:\c#code\Multicast Delegate\Multicast Delegate\obj\Debug\Multicast Delegate.exe
+E:\c#code\Multicast Delegate\Multicast Delegate\obj\Debug\Multicast Delegate.pdb

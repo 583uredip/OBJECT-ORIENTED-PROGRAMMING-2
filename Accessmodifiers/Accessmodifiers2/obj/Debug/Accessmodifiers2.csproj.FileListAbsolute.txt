@@ -1,0 +1,11 @@
+E:\c#code\Accessmodifiers\Accessmodifiers2\bin\Debug\Accessmodifiers2.exe.config
+E:\c#code\Accessmodifiers\Accessmodifiers2\bin\Debug\Accessmodifiers2.exe
+E:\c#code\Accessmodifiers\Accessmodifiers2\bin\Debug\Accessmodifiers2.pdb
+E:\c#code\Accessmodifiers\Accessmodifiers2\bin\Debug\Accessmodifiers.exe
+E:\c#code\Accessmodifiers\Accessmodifiers2\bin\Debug\Accessmodifiers.pdb
+E:\c#code\Accessmodifiers\Accessmodifiers2\bin\Debug\Accessmodifiers.exe.config
+E:\c#code\Accessmodifiers\Accessmodifiers2\obj\Debug\Accessmodifiers2.csproj.AssemblyReference.cache
+E:\c#code\Accessmodifiers\Accessmodifiers2\obj\Debug\Accessmodifiers2.csproj.CoreCompileInputs.cache
+E:\c#code\Accessmodifiers\Accessmodifiers2\obj\Debug\Accessmodifiers2.csproj.CopyComplete
+E:\c#code\Accessmodifiers\Accessmodifiers2\obj\Debug\Accessmodifiers2.exe
+E:\c#code\Accessmodifiers\Accessmodifiers2\obj\Debug\Accessmodifiers2.pdb

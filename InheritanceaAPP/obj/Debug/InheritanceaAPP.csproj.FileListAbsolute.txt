@@ -1,0 +1,7 @@
+E:\c#code\InheritanceaAPP\bin\Debug\InheritanceaAPP.exe.config
+E:\c#code\InheritanceaAPP\bin\Debug\InheritanceaAPP.exe
+E:\c#code\InheritanceaAPP\bin\Debug\InheritanceaAPP.pdb
+E:\c#code\InheritanceaAPP\obj\Debug\InheritanceaAPP.csproj.AssemblyReference.cache
+E:\c#code\InheritanceaAPP\obj\Debug\InheritanceaAPP.csproj.CoreCompileInputs.cache
+E:\c#code\InheritanceaAPP\obj\Debug\InheritanceaAPP.exe
+E:\c#code\InheritanceaAPP\obj\Debug\InheritanceaAPP.pdb

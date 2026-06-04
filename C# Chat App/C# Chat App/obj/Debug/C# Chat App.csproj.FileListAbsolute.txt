@@ -1,0 +1,12 @@
+E:\c#code\C# Chat App\C# Chat App\bin\Debug\C# Chat App.exe.config
+E:\c#code\C# Chat App\C# Chat App\bin\Debug\C# Chat App.exe
+E:\c#code\C# Chat App\C# Chat App\bin\Debug\C# Chat App.pdb
+E:\c#code\C# Chat App\C# Chat App\bin\Debug\Guna.UI2.dll
+E:\c#code\C# Chat App\C# Chat App\obj\Debug\C# Chat App.csproj.AssemblyReference.cache
+E:\c#code\C# Chat App\C# Chat App\obj\Debug\C__Chat_App.Form1.resources
+E:\c#code\C# Chat App\C# Chat App\obj\Debug\C__Chat_App.Properties.Resources.resources
+E:\c#code\C# Chat App\C# Chat App\obj\Debug\C# Chat App.csproj.GenerateResource.cache
+E:\c#code\C# Chat App\C# Chat App\obj\Debug\C# Chat App.csproj.CoreCompileInputs.cache
+E:\c#code\C# Chat App\C# Chat App\obj\Debug\C# Chat .0BD68672.Up2Date
+E:\c#code\C# Chat App\C# Chat App\obj\Debug\C# Chat App.exe
+E:\c#code\C# Chat App\C# Chat App\obj\Debug\C# Chat App.pdb

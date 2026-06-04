@@ -1,0 +1,7 @@
+E:\c#code\midsolvepart(1)\midsolvepart(1)\bin\Debug\midsolvepart(1).exe.config
+E:\c#code\midsolvepart(1)\midsolvepart(1)\bin\Debug\midsolvepart(1).exe
+E:\c#code\midsolvepart(1)\midsolvepart(1)\bin\Debug\midsolvepart(1).pdb
+E:\c#code\midsolvepart(1)\midsolvepart(1)\obj\Debug\midsolvepart(1).csproj.AssemblyReference.cache
+E:\c#code\midsolvepart(1)\midsolvepart(1)\obj\Debug\midsolvepart(1).csproj.CoreCompileInputs.cache
+E:\c#code\midsolvepart(1)\midsolvepart(1)\obj\Debug\midsolvepart(1).exe
+E:\c#code\midsolvepart(1)\midsolvepart(1)\obj\Debug\midsolvepart(1).pdb

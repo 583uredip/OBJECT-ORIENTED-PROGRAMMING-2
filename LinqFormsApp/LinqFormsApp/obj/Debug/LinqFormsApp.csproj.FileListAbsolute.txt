@@ -1,0 +1,12 @@
+E:\c#code\LinqFormsApp\LinqFormsApp\bin\Debug\StudentDB.mdf
+E:\c#code\LinqFormsApp\LinqFormsApp\bin\Debug\StudentDB_log.ldf
+E:\c#code\LinqFormsApp\LinqFormsApp\bin\Debug\LinqFormsApp.exe.config
+E:\c#code\LinqFormsApp\LinqFormsApp\bin\Debug\LinqFormsApp.exe
+E:\c#code\LinqFormsApp\LinqFormsApp\bin\Debug\LinqFormsApp.pdb
+E:\c#code\LinqFormsApp\LinqFormsApp\obj\Debug\LinqFormsApp.csproj.AssemblyReference.cache
+E:\c#code\LinqFormsApp\LinqFormsApp\obj\Debug\LinqFormsApp.Form1.resources
+E:\c#code\LinqFormsApp\LinqFormsApp\obj\Debug\LinqFormsApp.Properties.Resources.resources
+E:\c#code\LinqFormsApp\LinqFormsApp\obj\Debug\LinqFormsApp.csproj.GenerateResource.cache
+E:\c#code\LinqFormsApp\LinqFormsApp\obj\Debug\LinqFormsApp.csproj.CoreCompileInputs.cache
+E:\c#code\LinqFormsApp\LinqFormsApp\obj\Debug\LinqFormsApp.exe
+E:\c#code\LinqFormsApp\LinqFormsApp\obj\Debug\LinqFormsApp.pdb

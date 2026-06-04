@@ -1,0 +1,11 @@
+E:\c#code\Beginners Create an ATM Console Application\Beginners Create an ATM Console Application\bin\Debug\Beginners Create an ATM Console Application.exe.config
+E:\c#code\Beginners Create an ATM Console Application\Beginners Create an ATM Console Application\bin\Debug\Beginners Create an ATM Console Application.exe
+E:\c#code\Beginners Create an ATM Console Application\Beginners Create an ATM Console Application\bin\Debug\Beginners Create an ATM Console Application.pdb
+E:\c#code\Beginners Create an ATM Console Application\Beginners Create an ATM Console Application\obj\Debug\Beginners Create an ATM Console Application.csproj.AssemblyReference.cache
+E:\c#code\Beginners Create an ATM Console Application\Beginners Create an ATM Console Application\obj\Debug\Beginners Create an ATM Console Application.csproj.CoreCompileInputs.cache
+E:\c#code\Beginners Create an ATM Console Application\Beginners Create an ATM Console Application\obj\Debug\Beginners Create an ATM Console Application.exe
+E:\c#code\Beginners Create an ATM Console Application\Beginners Create an ATM Console Application\obj\Debug\Beginners Create an ATM Console Application.pdb
+E:\c#code\Beginners Create an ATM Console Application\Beginners Create an ATM Console Application\bin\Debug\ConsoleTables.dll
+E:\c#code\Beginners Create an ATM Console Application\Beginners Create an ATM Console Application\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\c#code\Beginners Create an ATM Console Application\Beginners Create an ATM Console Application\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\c#code\Beginners Create an ATM Console Application\Beginners Create an ATM Console Application\obj\Debug\Beginners Create an ATM Console Application.csproj.CopyComplete

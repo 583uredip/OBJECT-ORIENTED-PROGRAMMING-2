@@ -1,0 +1,7 @@
+E:\c#code\MidQuestionSlove3\MidQuestionSlove3\bin\Debug\MidQuestionSlove3.exe.config
+E:\c#code\MidQuestionSlove3\MidQuestionSlove3\bin\Debug\MidQuestionSlove3.exe
+E:\c#code\MidQuestionSlove3\MidQuestionSlove3\bin\Debug\MidQuestionSlove3.pdb
+E:\c#code\MidQuestionSlove3\MidQuestionSlove3\obj\Debug\MidQuestionSlove3.csproj.AssemblyReference.cache
+E:\c#code\MidQuestionSlove3\MidQuestionSlove3\obj\Debug\MidQuestionSlove3.csproj.CoreCompileInputs.cache
+E:\c#code\MidQuestionSlove3\MidQuestionSlove3\obj\Debug\MidQuestionSlove3.exe
+E:\c#code\MidQuestionSlove3\MidQuestionSlove3\obj\Debug\MidQuestionSlove3.pdb

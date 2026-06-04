@@ -1,0 +1,11 @@
+E:\c#code\C # Chat Application\C # Chat Application\bin\Debug\C # Chat Application.exe.config
+E:\c#code\C # Chat Application\C # Chat Application\bin\Debug\C # Chat Application.exe
+E:\c#code\C # Chat Application\C # Chat Application\bin\Debug\C # Chat Application.pdb
+E:\c#code\C # Chat Application\C # Chat Application\obj\Debug\C # Chat Application.csproj.AssemblyReference.cache
+E:\c#code\C # Chat Application\C # Chat Application\obj\Debug\C___Chat_Application.Form1.resources
+E:\c#code\C # Chat Application\C # Chat Application\obj\Debug\C___Chat_Application.Properties.Resources.resources
+E:\c#code\C # Chat Application\C # Chat Application\obj\Debug\C # Chat Application.csproj.GenerateResource.cache
+E:\c#code\C # Chat Application\C # Chat Application\obj\Debug\C # Chat Application.csproj.CoreCompileInputs.cache
+E:\c#code\C # Chat Application\C # Chat Application\obj\Debug\C # Chat Application.exe
+E:\c#code\C # Chat Application\C # Chat Application\obj\Debug\C # Chat Application.pdb
+E:\c#code\C # Chat Application\C # Chat Application\obj\Debug\C___Chat_Application.ButtonLogin.resources
